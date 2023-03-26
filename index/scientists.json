@@ -1,0 +1,23 @@
+[
+    {
+        id: 1,
+        name: 'Albert Einstein',
+        field: 'Physics',
+        bio: 'Albert Einstein was a German-born theoretical physicist who developed the theory of general relativity, one of the two pillars of modern physics.',
+        imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/220px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg'
+    },
+    {
+        id: 2,
+        name: 'Marie Curie',
+        field: 'Chemistry',
+        bio: 'Marie Curie was a Polish-born physicist and chemist who conducted pioneering research on radioactivity. She was the first woman to win a Nobel Prize and the first person to win two Nobel Prizes in different fields.',
+        imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Pierre_and_Marie_Curie.jpg/220px-Pierre_and_Marie_Curie.jpg'
+    },
+    {
+        id: 3,
+        name: 'Stephen Hawking',
+        field: 'Physics',
+        bio: 'Stephen Hawking was an English theoretical physicist, cosmologist, and author who is widely considered to be one of the greatest scientists of the 20th century. He made groundbreaking contributions to our understanding of black holes and the origins of the universe.',
+        imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Stephen_Hawking.StarChild.jpg/220px-Stephen_Hawking.StarChild.jpg'
+    }
+];
